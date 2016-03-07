@@ -9,6 +9,7 @@ public class AVLTreeDeleteTest
 
 	public static void main(String[] arg)
 	{
+		//random message for git test
 		Random generator = new Random();
 		AVLTree<Integer> tree = new AVLTree<>();
 		AVLTreePrinter printer = new AVLTreePrinter(tree);
